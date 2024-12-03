@@ -17,7 +17,7 @@ In the long term:
 3) Optimization of interaction with the exchange via a websocket.
 
 
-<img src="https://github.com/Zcash2701/TTB/blob/main/1685530327188-Photoroom.png" alt="HomerS">
+<img src="https://github.com/Zcash2701/TTB/blob/main/1685530327188-Photoroom.png" alt="RobotBtc">
 
 ![Static Badge](https://img.shields.io/badge/py-python-blue?logo=python)
 ![Static Badge](https://img.shields.io/badge/Telegram_Trading_Bot-green?logo=bitcoin)
