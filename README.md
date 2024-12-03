@@ -17,6 +17,15 @@ In the long term:
 3) Optimization of interaction with the exchange via a websocket.
 
 
+Libraries used:
+1) import emoji
+2) import pandas
+3) import sqlite3 
+4) import telebot
+5) import asyncio
+6) from pybit.unified_trading import HTTP
+
+
 <img src="https://github.com/Zcash2701/TTB/blob/main/1685530327188-Photoroom.png" alt="RobotBtc">
 
 ![Static Badge](https://img.shields.io/badge/py-python-blue?logo=python)
