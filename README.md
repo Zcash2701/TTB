@@ -1,4 +1,4 @@
-# TTB
+# Telegram Trading Bot
 
 
 <img src="https://github.com/Zcash2701/TTB/blob/main/1685530327188-Photoroom.png" alt="HomerS">
